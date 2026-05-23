@@ -1,0 +1,6 @@
+{
+  "name": "My agent",
+  "description": "Aplikasi AI Agent pribadi yang terintegrasi dengan Gemini, GPT, Shizuku/Termux, dan koneksi VPS manual.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
